@@ -1,0 +1,32 @@
+/*Fonts & Color*/
+body {
+	background-color: rgb(180, 200, 230);
+	font-family: andale mono;
+	line-height: 20px;
+	text-align: center;
+		font-size: 30px;
+}
+
+.btn-blue {
+background-color:rgb(50, 50, 200);
+color: floralwhite;
+padding: 10px 20px;
+border-radius: 20px;
+}
+
+.btn-blue:hover {
+background-color:rgb(50, 50, 200);
+color: floralwhite;
+
+}
+
+h1 {
+	color: rgb(50, 50, 50);
+	font-family: helvetica;
+	text-align: center;
+	letter-spacing: 0.1em;
+}
+
+a{
+	text-decoration: none;
+}
